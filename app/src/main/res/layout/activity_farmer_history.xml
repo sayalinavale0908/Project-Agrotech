@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:paddingBottom="5dp"
+    android:paddingTop="10dp"
+    android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/farmer_history"
+            android:textColor="@color/Hint_color"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/green"/>
+
+        <ListView
+            android:id="@+id/product_listseed"
+            android:layout_width="match_parent"
+            android:layout_height="454dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/green"
+            android:divider="@null"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:padding="3dp"
+            android:smoothScrollbar="true">
+
+        </ListView>
+
+</LinearLayout>

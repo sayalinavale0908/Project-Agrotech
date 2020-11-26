@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">FarmersBid1</string>
+    <string name="enter_aadhar_no">Enter Aadhar No</string>
+    <string name="enter_password">Enter the password</string>
+    <string name="login">Login</string>
+    <string name="New_User">New User? Register Here</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="farmer_registration">FARMER REGISTRATION</string>
+    <string name="name">Enter name</string>
+    <string name="dob">Enter Birth day</string>
+    <string name="address">Enter address</string>
+    <string name="contact">Enter Contact</string>
+    <string name="email">Enter email address</string>
+    <string name="pan">Enter PAN no</string>
+    <string name="ifsc">Enter IFSC no</string>
+    <string name="bank_name">Enter Bank Name</string>
+    <string name="password">Enter Password</string>
+    <string name="branch">Enter Branch Name</string>
+    <string name="registration">register</string>
+    <string name="Already_User">Already has Account? Login Here</string>
+    <string name="Consumer_registration">CONSUMER REGISTRATION</string>
+    <string name="ADD_producr">ADD PRODUCT</string>
+    <string name="product_name">Product Name :</string>
+    <string name="product_name1">Product Name</string>
+    <string name="product_quntity">Product Quntity :</string>
+    <string name="product_rate">Rate :</string>
+    <string name="product_cate">Product Category :</string>
+    <string name="product_cate1">Product Category</string>
+    <string name="product_grade">Product Grade :</string>
+    <string name="product_bid_price">Bid Price :</string>
+    <string name="product_quntity_price">Quntity</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Consumer_name">Consumer Name</string>
+    <string name="new_bid_price">New  Bid Price</string>
+    <string name="product_bid_date">Bid Date</string>
+    <string name="pro_b_id">Bid Id</string>
+    <string name="pro_b_i">product id</string>
+    <string name="product_bid_new_price">new price</string>
+    <string name="Create_Bid">Create Bid</string>
+    <string name="farmer_history">Farmer History</string>
+    <string name="Bid_on_product">Bid On Product</string>
+    <string name="submit">Submit</string>
+    <string name="no">No.</string>
+    <string name="bid_price">Bid Price</string>
+    <string name="address_n">Address</string>
+    <string name="enter_biding_price">Enter Price</string>
+    <string name="ADD_BID">ADD BID</string>
+    <string name="Farmer_Name">Farmer Name :</string>
+    <string name="Farmer_Address">Farmer Address</string>
+    <string name="Farmer_Transpotation">Transpotation Cost :</string>
+    <string name="bid_status">Bid Status</string>
+    <string name="yes">yes</string>
+    <string name="no1">No</string>
+    <string name="show_history">Show History</string>
+    <string name="enter_account_no">Enter account No</string>
+    <string name="show_win_list">Show Win List</string>
+
+    <string name="win_product_bid_id1">Win Product Bid  ID</string>
+    <string name="consumer_id">Consumer ID</string>
+    <string name="bid_price_of_consumer">Bid Price Of Consumer</string>
+    <string name="bid_date">Bid Date</string>
+
+    <string-array name="User">
+        <item>Consumer</item>
+        <item>Farmer</item>
+    </string-array>
+
+    <string-array name="Product_cat">
+        <item>VEGETABLES</item>
+        <item>GRAINS</item>
+        <item>FRUITS</item>
+
+    </string-array>
+
+    <string-array name="grade">
+       <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </string-array>
+
+    <string-array name="productN">
+        <item>Wheat</item>
+        <item>Apple</item>
+        <item>Maze</item>
+    </string-array>
+</resources>
